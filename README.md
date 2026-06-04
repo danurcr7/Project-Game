@@ -14,5 +14,7 @@ Tech Stack:
 Tujuan Proyek:
 Melatih kemampuan JavaScript melalui implementasi logika permainan, pengelolaan event pengguna, dan manipulasi elemen pada halaman web.
 
+Link Game: https://danurcr7.github.io/Project-Game/
+
 Game Preview
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/29360844-49ed-43fa-b6be-7f8c67091354" />
